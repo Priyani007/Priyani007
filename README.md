@@ -1,17 +1,15 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:6366F1&height=170&section=header&text=&fontSize=0" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC2D1,50:FF9EB8,100:FB6F92&height=170&section=header&text=&fontSize=0" alt="" />
 
-<h1 align="center">Hey, I'm Priyani 👋</h1>
+<h1 align="center">Hey, I'm Priyani 🌸</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/priyani-n/">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=640&height=46&lines=Computer+Science+Engineer+%40+VIT+Vellore;I+build+end-to-end+ML+%2B+full-stack+systems;Open+to+SWE+%26+ML+internships" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=FB6F92&center=true&vCenter=true&width=640&height=46&lines=Computer+Science+Engineer+%40+VIT+Vellore;I+build+end-to-end+ML+%2B+full-stack+systems;Open+to+SWE+%26+ML+internships" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/priyani-n/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Based%20in-India%20🇮🇳-EC4899?style=for-the-badge" alt="India" />
+  <a href="https://www.linkedin.com/in/priyani-n/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF6FA5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -20,7 +18,7 @@
   taking a real problem and turning it into a working, demoable product.
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:6366F1&height=3" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC2D1,100:FB6F92&height=3" alt="" />
 
 ## 🚀 Projects
 
@@ -50,7 +48,7 @@
 
 <sub>`Python` · `pandas` · `scikit-learn`</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:6366F1&height=3" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC2D1,100:FB6F92&height=3" alt="" />
 
 ## 🛠️ Skills
 
@@ -100,4 +98,4 @@
 - 🌱 Going deeper on **applied ML, system design, and backend engineering**
 - 🤝 **Open to Software Engineering & ML internships** — [let's connect](https://www.linkedin.com/in/priyani-n/)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:EC4899&height=120&section=footer&text=&fontSize=0" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FB6F92,50:FF9EB8,100:FFC2D1&height=120&section=footer&text=&fontSize=0" alt="" />
