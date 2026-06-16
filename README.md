@@ -20,9 +20,7 @@
   taking a real problem and turning it into a working, demoable product.
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp" width="100%" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:6366F1&height=3" alt="" />
 
 ## 🚀 Projects
 
@@ -52,9 +50,7 @@
 
 <sub>`Python` · `pandas` · `scikit-learn`</sub>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-superthin.webp" width="100%" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EC4899,100:6366F1&height=3" alt="" />
 
 ## 🛠️ Skills
 
