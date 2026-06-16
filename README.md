@@ -24,8 +24,8 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**AarthiAI**](https://github.com/PROSTLE/AarthiAI) · 🏅 *Women Techies* | Empathetic financial planner with a 5-day stock forecaster | PyTorch BiLSTM + attention · FinBERT · Gemini · FastAPI |
-| [**AEGIS**](https://github.com/PROSTLE/AEGIS) · 🏅 *Makeathon* | Startup-terrain intelligence that scores a city's launch readiness | React · FastAPI · scikit-learn · Gemini |
+| [**AarthiAI**](https://github.com/PROSTLE/AarthiAI) · *built at Women Techies* | Empathetic financial planner with a 5-day stock forecaster | PyTorch BiLSTM + attention · FinBERT · Gemini · FastAPI |
+| [**AEGIS**](https://github.com/PROSTLE/AEGIS) · *built at Makeathon* | Startup-terrain intelligence that scores a city's launch readiness | React · FastAPI · scikit-learn · Gemini |
 | [**MGNREGA Forecasting**](https://github.com/aaditgarg01/ML_Hackathon) · 🥉 *Neural Hack — 2nd Runner-Up* | District-level rural-employment demand forecasting | pandas · scikit-learn (HistGradientBoosting) |
 
 ---
