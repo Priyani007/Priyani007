@@ -22,7 +22,7 @@
 
 ## 🚀 Projects
 
-### 💸 [AarthiAI](https://github.com/PROSTLE/AarthiAI) — empathetic financial planner + stock forecaster
+### 💸 [AarthiAI](https://github.com/Priyani007/AarthiAI) — empathetic financial planner + stock forecaster
 <sub>built at Women Techies</sub>
 
 - **Forecasting** — PyTorch **bidirectional LSTM (3-layer, 128 hidden) with an attention head**; 60-day input window → 5-day price horizon. Adam + `ReduceLROnPlateau` + early stopping, trained per-ticker with leakage-safe scaling.
@@ -31,7 +31,7 @@
 
 <sub>`PyTorch` · `Transformers / FinBERT` · `FastAPI` · `Gemini` · `yfinance`</sub>
 
-### 🛰️ [AEGIS](https://github.com/PROSTLE/AEGIS) — startup-terrain intelligence for India
+### 🛰️ [AEGIS](https://github.com/Priyani007/AEGIS) — startup-terrain intelligence for India
 <sub>built at Makeathon</sub>
 
 - **9 independent intelligence modules** (survival, logistics, workforce, demand, investor matchmaking…) fused into a weighted **Launch Readiness Score**.
@@ -41,7 +41,7 @@
 
 <sub>`React` · `FastAPI` · `scikit-learn` · `Gemini` · `D3.js`</sub>
 
-### 📊 [MGNREGA Demand Forecasting](https://github.com/aaditgarg01/ML_Hackathon) &nbsp;·&nbsp; 🥉 Neural Hack, 2nd Runner-Up
+### 📊 [MGNREGA Demand Forecasting](https://github.com/Priyani007/MGNREGA-Demand-Forecasting) &nbsp;·&nbsp; 🥉 Neural Hack, 2nd Runner-Up
 - District-level **time-series forecasting** of rural-employment demand (person-days & works) for Q1 2026.
 - **Feature engineering** — 24-month lag features + district×calendar-month seasonal means + consistent cross-split label encoding.
 - Dual `HistGradientBoostingRegressor` models with native missing-value handling.
