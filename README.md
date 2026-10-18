@@ -48,6 +48,20 @@
 
 <sub>`Python` · `pandas` · `scikit-learn`</sub>
 
+### 🩺 [Sanjeevani](https://github.com/Priyani007/sanjeevani) — HALO real-time CPR coach & emergency telemetry
+- **Real-Time Telemetry** — On-device motion sensor tracking of compression rate (BPM), depth, and recoil compliance over low-latency WebSockets.
+- **Closed-Loop Feedback** — Instant auditory & visual guidance maintaining 100–120 target BPM and continuous Chest Compression Fraction (CCF) scoring.
+- **Dispatcher Dashboard** — Live waveform streaming & telemetry aggregator interface connecting field rescuers to emergency coordinators.
+
+<sub>`Node.js` · `WebSockets` · `JavaScript` · `Sensor APIs` · `Canvas`</sub>
+
+### 🌸 [Saathi PCOS](https://github.com/Priyani007/saathi-pcos) — AI-powered companion & health tracker
+- **Holistic Wellness Tracking** — Android application tailored for PCOS lifestyle management, symptom logging, and cycle tracking.
+- **Data Visualization** — Interactive health trend reports with MPAndroidChart and automated client-side PDF health report generation.
+- **Architecture** — Clean MVVM architecture built with Kotlin, Jetpack components, and Room database persistence.
+
+<sub>`Android` · `Kotlin` · `Jetpack` · `MPAndroidChart` · `Room`</sub>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC2D1,100:FB6F92&height=3" alt="" />
 
 ## 🛠️ Skills
